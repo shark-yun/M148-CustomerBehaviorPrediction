@@ -1,1 +1,3 @@
-# M148-CustomerPattern
+# M148-CustomerBehaviorPrediction
+
+Our goal is to prototype a predictive model for our industry partner Bluestem Brands that can accurately forecast the probability of a customer making a purchase during a shopping session. To accomplish this, we will analyze a range of customer behavior data, such as page views, search history, and previous purchase history. Using machine learning techniques, we will develop a model that can predict the likelihood of a purchase based on these factors. By deploying this model, Bluestem Brands will be able to more accurately target their customers with promotions and marketing resources that are most likely to drive sales. This will improve their cost and return ratio, ultimately leading to increased profits. By providing a specific solution to this problem, we aim to deliver tangible value to our industry partner and contribute to the ongoing advancement of the e-commerce industry. 
